@@ -50,7 +50,7 @@ Build a reusable and customizable component library with:
 
 **Technologies**: React, Storybook, TypeScript (optional), Rollup/Webpack
 
-[📁 View Task 1 →](./task-1-component-library/)
+[📁 View Task 1 →](./custom-component-library/)
 
 ---
 
@@ -66,7 +66,7 @@ Optimize an existing web application's performance using:
 
 **Technologies**: Webpack, Lighthouse, ImageOptim, Critical CSS
 
-[📁 View Task 2 →](./task-2-performance-optimization/)
+[📁 View Task 2 →](./performance-optimization/)
 
 ---
 
@@ -82,7 +82,7 @@ Create sophisticated animations with:
 
 **Technologies**: GSAP 3.12.5, ScrollTrigger, HTML5, CSS3, JavaScript ES6+
 
-[📁 View Task 3 →](./task-3-advanced-animations/)
+[📁 View Task 3 →](./advanced-animations-gsap/)
 
 ---
 
