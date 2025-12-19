@@ -299,6 +299,21 @@ Test accessibility in Storybook using the A11y addon!
 
 ---
 
+## 📸 Project Screenshots
+### Button Component
+![Button Component](screenshots/button.png)
+
+### Card Component
+![Card Component](screenshots/card.png)
+
+### Input Component
+![Input Component](screenshots/input.png)
+
+### Modal Component
+![Modal Component](screenshots/modal.png)
+
+---
+
 ## 📦 Using Your Published Package
 
 After publishing, install it in any React project:
@@ -323,53 +338,6 @@ function App() {
 ```
 
 ---
-
-## 🎯 Submission Checklist
-
-For your Codveda internship submission, ensure you have:
-
-- [ ] All component files created
-- [ ] Storybook running successfully
-- [ ] Components documented with stories
-- [ ] Built the library (`npm run build`)
-- [ ] Published to NPM (optional but recommended)
-- [ ] Created GitHub repository
-- [ ] Added screenshots from Storybook
-- [ ] Created a demo video showing:
-  - Storybook interface
-  - Each component in action
-  - Accessibility features
-  - Props being changed
-  - Built files in `dist/` folder
-
----
-
-## 🎥 Video Content Suggestions
-
-Your LinkedIn video should showcase:
-
-1. **Introduction** (15 seconds)
-   - "I built a custom React component library for my Codveda internship"
-
-2. **Storybook Demo** (30 seconds)
-   - Navigate through components
-   - Show interactive controls
-
-3. **Accessibility** (20 seconds)
-   - Show A11y tab
-   - Demonstrate keyboard navigation
-
-4. **Code Walkthrough** (30 seconds)
-   - Show TypeScript interfaces
-   - Highlight ARIA attributes
-
-5. **NPM Package** (15 seconds)
-   - Show published package
-   - Quick installation demo
-
-6. **Conclusion** (10 seconds)
-   - Thank Codveda
-   - Mention what you learned
 
 **Hashtags to use:**
 #CodvedaJourney #CodvedaExperience #FutureWithCodveda #ReactJS #ComponentLibrary #Storybook #WebDevelopment

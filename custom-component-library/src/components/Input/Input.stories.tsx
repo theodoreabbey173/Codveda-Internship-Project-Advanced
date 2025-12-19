@@ -97,6 +97,6 @@ export const Phone: Story = {
   args: {
     label: 'Phone Number',
     type: 'tel',
-    placeholder: '+1 (555) 123-4567',
+    placeholder: '+233 (055) 123-4567',
   },
 };
