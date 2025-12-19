@@ -17,6 +17,16 @@ This project demonstrates advanced web performance optimization techniques using
 - ✅ **Modern Image Formats** - Support for WebP and optimized images
 - ✅ **Performance Observers** - Monitoring long tasks and slow resources
 
+
+## 🌐 Live Demos
+
+| Project | Live Demo | Source Code |
+|---------|-----------|-------------|
+| Task 2 - Performance Optimization | [Demo Link](https://performances-optimization.netlify.app/) | [View Code](./performance-optimization/) |
+
+
+
+
 ## 📁 Project Structure
 
 ```
