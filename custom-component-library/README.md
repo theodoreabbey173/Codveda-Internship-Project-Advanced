@@ -410,4 +410,13 @@ MIT License - Feel free to use this in your portfolio and future projects!
 
 Built as part of the Codveda Technology Internship Program - Level 3, Task 1
 
+## 📧 Contact
+
+For questions or feedback about this project:
+- **LinkedIn:** [My LinkedIn Profile](https://linkedin.com/in/theodore-abbey)
+- **GitHub:** [My GitHub Profile](https://github.com/theodoreabbey173)
+- **Email:** theodoreabbey174@gmail.com
+- **Portfolio:** [My Portfolio Website](https://your-portfolio.com)
+
+
 **Good luck with your submission! 🚀**
