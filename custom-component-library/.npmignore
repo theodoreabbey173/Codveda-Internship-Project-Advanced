@@ -1,0 +1,27 @@
+# Source files
+src/
+.storybook/
+
+# Config files
+tsconfig.json
+rollup.config.js
+.gitignore
+
+# Stories
+**/*.stories.tsx
+**/*.stories.ts
+
+# Documentation (exclude from npm, keep README)
+*.md
+!README.md
+
+# Development
+node_modules/
+storybook-static/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
