@@ -127,14 +127,78 @@ level-3-advanced/
 
 ## 🛠 Technologies Used
 
-### Core Technologies
-| Technology | Purpose | Used In |
-|------------|---------|---------|
-| **HTML5** | Structure & Semantics | All Tasks |
-| **CSS3** | Styling & Layouts | All Tasks |
-| **JavaScript (ES6+)** | Interactivity & Logic | All Tasks |
-| **React** | Component Architecture | Task 1, 2 |
-| **GSAP** | Advanced Animations | Task 3 |
+### Programming Languages
+<div align="center">
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/> |
+|:---:|:---:|:---:|:---:|
+| **JavaScript** | **TypeScript** | **HTML5** | **CSS3** |
+| ES6+ Features | Type Safety | Semantic Markup | Modern Styling |
+
+</div>
+
+### Frameworks & Libraries
+<div align="center">
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind"/> | <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="48" height="48" alt="GSAP"/> |
+|:---:|:---:|:---:|:---:|
+| **React** | **Node.js** | **Tailwind CSS** | **GSAP** |
+| Component Library | Runtime Environment | Utility-First CSS | Animation Engine |
+
+</div>
+
+### Build Tools & Bundlers
+<div align="center">
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="48" height="48" alt="Babel"/> | <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="48" height="48" alt="Vite"/> | <img src="https://cdn.worldvectorlogo.com/logos/rollup-1.svg" width="48" height="48" alt="Rollup"/> |
+|:---:|:---:|:---:|:---:|
+| **Webpack** | **Babel** | **Vite** | **Rollup** |
+| Bundler | Transpiler | Fast Build Tool | Library Bundler |
+
+</div>
+
+### Development & Design Tools
+<div align="center">
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/> |
+|:---:|:---:|:---:|:---:|
+| **VS Code** | **Git** | **GitHub** | **Figma** |
+| Code Editor | Version Control | Repository | UI Design |
+
+</div>
+
+### Testing & Quality
+<div align="center">
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="48" height="48" alt="Storybook"/> | <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" width="48" height="48" alt="ESLint"/> | <img src="https://avatars.githubusercontent.com/u/8908513?s=48&v=4" width="48" height="48" alt="Prettier"/> |
+|:---:|:---:|:---:|:---:|
+| **Jest** | **Storybook** | **ESLint** | **Prettier** |
+| Unit Testing | Component Docs | Code Linting | Code Formatting |
+
+</div>
+
+### Deployment & Hosting
+<div align="center">
+
+| <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="48" height="48" alt="Netlify"/> | <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" width="48" height="48" alt="Vercel"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub Pages"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM"/> |
+|:---:|:---:|:---:|:---:|
+| **Netlify** | **Vercel** | **GitHub Pages** | **NPM** |
+| Hosting | Hosting | Static Hosting | Package Registry |
+
+</div>
+
+---
+
+### Detailed Technology Breakdown
+
+#### CSS Frameworks & Preprocessors
+| Tool | Purpose | Used In |
+|------|---------|---------|
+| **Tailwind CSS** | Utility-first CSS framework | Task 1, 2 |
+| **Styled Components** | CSS-in-JS solution | Task 1 |
+| **Sass/SCSS** | CSS Preprocessing | Task 2 |
+| **CSS Modules** | Scoped styling | Task 1 |
+| **PostCSS** | CSS transformation | Task 2 |
 
 ### Tools & Libraries
 | Tool | Purpose | Used In |
@@ -145,14 +209,92 @@ level-3-advanced/
 | **ScrollTrigger** | Scroll Animations | Task 3 |
 | **Babel** | JavaScript Transpilation | Task 1, 2 |
 | **PostCSS** | CSS Processing | Task 2 |
+| **Rollup** | Library Bundler | Task 1 |
+| **ESLint** | Code Linting | Task 1, 2 |
+| **Prettier** | Code Formatting | All Tasks |
 
-### Development Tools
-- **VS Code** - Code editor
-- **Git** - Version control
-- **GitHub** - Code repository
-- **npm/yarn** - Package management
-- **Chrome DevTools** - Debugging
-- **Live Server** - Local development
+### Performance & Optimization Tools
+| Tool | Purpose | Used In |
+|------|---------|---------|
+| **Webpack Bundle Analyzer** | Visualize bundle size | Task 2 |
+| **ImageOptim / Sharp** | Image optimization | Task 2 |
+| **Terser** | JavaScript minification | Task 2 |
+| **PurgeCSS** | Remove unused CSS | Task 2 |
+| **Compression Plugin** | Gzip/Brotli compression | Task 2 |
+| **WorkBox** | Service Worker generation | Task 2 |
+| **Critical** | Critical CSS extraction | Task 2 |
+| **WebP Converter** | Modern image formats | Task 2 |
+| **code-splitting** | Dynamic imports | Task 2 |
+| **Tree Shaking** | Dead code elimination | Task 2 |
+
+### Animation & Interaction Tools
+| Tool | Purpose | Used In |
+|------|---------|---------|
+| **GSAP (GreenSock)** | Animation library | Task 3 |
+| **ScrollTrigger Plugin** | Scroll-based animations | Task 3 |
+| **Framer Motion** | React animation library (alternative) | Task 3 |
+| **React Spring** | Spring physics animations (optional) | Task 3 |
+| **Lottie** | Vector animations (optional) | Task 3 |
+| **Anime.js** | Lightweight animation (alternative) | Task 3 |
+
+### Testing & Quality Tools
+| Tool | Purpose | Used In |
+|------|---------|---------|
+| **Jest** | Unit testing | Task 1, 2 |
+| **React Testing Library** | Component testing | Task 1 |
+| **Cypress** | E2E testing (optional) | Task 2 |
+| **Playwright** | Browser testing (optional) | Task 2 |
+| **Axe DevTools** | Accessibility testing | All Tasks |
+| **Lighthouse CI** | Automated performance testing | Task 2 |
+| **ESLint** | JavaScript linting | Task 1, 2 |
+| **Stylelint** | CSS linting | All Tasks |
+| **Husky** | Git hooks for quality checks | Task 1, 2 |
+
+### Development Environment
+| Tool | Purpose | Used In |
+|------|---------|---------|
+| **VS Code** | Code editor | All Tasks |
+| **Git** | Version control | All Tasks |
+| **GitHub** | Code repository & collaboration | All Tasks |
+| **npm / yarn / pnpm** | Package management | All Tasks |
+| **Chrome DevTools** | Debugging & profiling | All Tasks |
+| **React DevTools** | React debugging | Task 1, 2 |
+| **Redux DevTools** | State debugging (if used) | Task 1, 2 |
+| **Live Server** | Local development server | Task 3 |
+| **Vite** | Fast build tool (alternative) | Task 1, 2 |
+| **Parcel** | Zero-config bundler (alternative) | Task 2 |
+
+### Design & Documentation Tools
+| Tool | Purpose | Used In |
+|------|---------|---------|
+| **Figma** | UI/UX design mockups | All Tasks |
+| **Adobe XD** | Design prototypes (alternative) | All Tasks |
+| **Storybook** | Component documentation | Task 1 |
+| **JSDoc** | Code documentation | Task 1, 2 |
+| **Docusaurus** | Documentation site (optional) | Task 1 |
+| **Markdown** | README documentation | All Tasks |
+| **Mermaid** | Diagram generation | Documentation |
+| **Draw.io** | Flowcharts & diagrams | Documentation |
+
+### Build & Deployment Tools
+| Tool | Purpose | Used In |
+|------|---------|---------|
+| **Netlify** | Hosting & deployment | All Tasks |
+| **Vercel** | Hosting & deployment | All Tasks |
+| **GitHub Pages** | Static site hosting | Task 3 |
+| **npm Registry** | Package publishing | Task 1 |
+| **GitHub Actions** | CI/CD automation | Task 2 |
+| **Docker** | Containerization (optional) | Task 2 |
+| **Cloudflare** | CDN & caching | Task 2 |
+
+### Version Control & Collaboration
+| Tool | Purpose | Used In |
+|------|---------|---------|
+| **Git** | Version control system | All Tasks |
+| **GitHub** | Code hosting & collaboration | All Tasks |
+| **GitHub Desktop** | GUI for Git (optional) | All Tasks |
+| **GitKraken** | Git client (alternative) | All Tasks |
+| **Conventional Commits** | Commit message standard | All Tasks |
 
 ---
 
@@ -164,7 +306,7 @@ Before starting, ensure you have:
 - **Node.js** (v14 or higher) - [Download here](https://nodejs.org/)
 - **npm** or **yarn** - Comes with Node.js
 - **Git** - [Download here](https://git-scm.com/)
-- **Code Editor** - VS Code recommended
+- **Code Editor** - VS Code recommended 
 
 ### Verify Installation
 
