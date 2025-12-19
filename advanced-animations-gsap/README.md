@@ -9,17 +9,18 @@
 
 1. [Project Overview](#-project-overview)
 2. [Features](#-features)
-3. [Technologies Used](#-technologies-used)
-4. [Installation Guide](#-installation-guide)
-5. [File Structure](#-file-structure)
-6. [How to Run](#-how-to-run)
-7. [Animation Features Explained](#-animation-features-explained)
-8. [Accessibility Features](#-accessibility-features)
-9. [Customization Guide](#-customization-guide)
-10. [Performance Optimization](#-performance-optimization)
-11. [Browser Support](#-browser-support)
-12. [Troubleshooting](#-troubleshooting)
-13. [Resources & References](#-resources--references)
+3. [Live Demo](#-live-demo)
+4. [Technologies Used](#-technologies-used)
+5. [Installation Guide](#-installation-guide)
+6. [File Structure](#-file-structure)
+7. [How to Run](#-how-to-run)
+8. [Animation Features Explained](#-animation-features-explained)
+9. [Accessibility Features](#-accessibility-features)
+10. [Customization Guide](#-customization-guide)
+11. [Performance Optimization](#-performance-optimization)
+12. [Browser Support](#-browser-support)
+13. [Troubleshooting](#-troubleshooting)
+14. [Resources & References](#-resources--references)
 
 ---
 
@@ -63,6 +64,15 @@ This project demonstrates advanced web animations using **GSAP (GreenSock Animat
    - Performance optimization with RAF (RequestAnimationFrame)
 
 ---
+
+
+## 🌐 Live Demos
+
+| Project | Live Demo | Source Code |
+|---------|-----------|-------------|
+| Task 3 - Advanced Animation | [Demo Link](https://advanced-animation-gsap.netlify.app/) | [View Code](./advanced-animations-gsap/) |
+
+
 
 ## 🛠 Technologies Used
 
