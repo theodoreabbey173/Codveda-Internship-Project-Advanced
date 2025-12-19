@@ -9,14 +9,15 @@
 
 1. [Overview](#-overview)
 2. [Tasks Completed](#-tasks-completed)
-3. [Project Structure](#-project-structure)
-4. [Technologies Used](#-technologies-used)
-5. [Installation & Setup](#-installation--setup)
-6. [Running the Projects](#-running-the-projects)
-7. [Task Details](#-task-details)
-8. [Key Learning Outcomes](#-key-learning-outcomes)
-9. [Submission Guidelines](#-submission-guidelines)
-10. [Resources](#-resources)
+3. [Live Demo](#-Live-Demo)
+4. [Project Structure](#-project-structure)
+5. [Technologies Used](#-technologies-used)
+6. [Installation & Setup](#-installation--setup)
+7. [Running the Projects](#-running-the-projects)
+8. [Task Details](#-task-details)
+9. [Key Learning Outcomes](#-key-learning-outcomes)
+10. [Submission Guidelines](#-submission-guidelines)
+11. [Resources](#-resources)
 
 ---
 
@@ -85,6 +86,15 @@ Create sophisticated animations with:
 [📁 View Task 3 →](./advanced-animations-gsap/)
 
 ---
+
+## 🌐 Live Demos
+
+| Project | Live Demo | Source Code |
+|---------|-----------|-------------|
+| Task 1 - Custom Component Library | [Demo Link](https://task1-spa.netlify.app/) | [View Code](./custom-component-library/) |
+| Task 2 - Performance Optimization | [Demo Link](https://task2-weather-api.netlify.app/) | [View Code](./performance-optimization/) |
+| Task 3 - Advanced Animation | [Demo Link](https://task3-ecommerce-ui.netlify.app/) | [View Code](./advanced-animations-gsap/) |
+
 
 ## 📁 Project Structure
 
