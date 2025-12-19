@@ -35,6 +35,12 @@ npm --version
 git --version
 ```
 
+## 🌐 Live Demos
+
+| Project | Live Demo | Source Code |
+|---------|-----------|-------------|
+| Task 1 - Custom Component Library | [Demo Link](https://custom-component-libraries.netlify.app/) | [View Code](./custom-component-library/) |
+
 ### Step 2: Create Project Structure
 
 1. Create a new folder for your project:
