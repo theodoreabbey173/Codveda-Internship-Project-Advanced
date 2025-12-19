@@ -311,38 +311,12 @@ Real-time performance tracking and reporting.
    - Use tools like TinyPNG or ImageOptim
    - Serve responsive images with `srcset`
 
-## 📝 Submission Checklist
+## 📸 Project Screenshots
+### Performance Optimization Component
+![Performance Optimization Component](screenshots/main%20screen.png)
 
-- [ ] All three files created (HTML, CSS, JS)
-- [ ] Project runs without errors
-- [ ] Performance metrics display correctly
-- [ ] Image gallery loads lazily
-- [ ] Responsive on mobile, tablet, desktop
-- [ ] Lighthouse score above 90
-- [ ] Code is clean and commented
-- [ ] README.md is complete
-- [ ] Deployed to hosting platform
-- [ ] GitHub repository created
-
-## 🎥 Video Submission Guide
-
-1. **Record your screen** showing:
-   - Opening the project
-   - Explaining the file structure
-   - Demonstrating features
-   - Running Lighthouse audit
-   - Showing performance metrics
-
-2. **Upload to LinkedIn**
-   - Keep video under 3 minutes
-   - Use hashtags: #CodvedaJourney #CodvedaAchievements
-   - Tag @Codveda Technology
-
-3. **Include in post**:
-   - Project description
-   - GitHub repository link
-   - Deployed site link
-   - Key learnings
+### Lazy Photos Component
+![Lazy Photos Component](screenshots/lazy%20photos.png)
 
 ## 🐛 Troubleshooting
 
