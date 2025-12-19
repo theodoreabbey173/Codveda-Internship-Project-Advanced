@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced Animations - GSAP Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar" role="navigation" aria-label="Main navigation">
+        <div class="nav-container">
+            <div class="logo">
+                <span class="logo-text">GSAP</span>
+                <span class="logo-dot">.</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#hero" class="nav-link">Home</a></li>
+                <li><a href="#features" class="nav-link">Features</a></li>
+                <li><a href="#gallery" class="nav-link">Gallery</a></li>
+                <li><a href="#contact" class="nav-link">Contact</a></li>
+            </ul>
+            <button class="menu-toggle" aria-label="Toggle navigation menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero-section">
+        <div class="hero-content">
+            <h1 class="hero-title">
+                <span class="hero-line">Advanced</span>
+                <span class="hero-line">Animations</span>
+                <span class="hero-line">With GSAP</span>
+            </h1>
+            <p class="hero-subtitle">Experience smooth, performant, and interactive animations</p>
+            <button class="cta-button" aria-label="Explore animations">
+                <span class="button-text">Explore Now</span>
+                <span class="button-arrow">→</span>
+            </button>
+        </div>
+        <div class="hero-visual">
+            <div class="floating-card card-1"></div>
+            <div class="floating-card card-2"></div>
+            <div class="floating-card card-3"></div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="features-section">
+        <h2 class="section-title">Amazing Features</h2>
+        <div class="features-grid">
+            <div class="feature-card" tabindex="0">
+                <div class="feature-icon">⚡</div>
+                <h3 class="feature-title">Lightning Fast</h3>
+                <p class="feature-description">Optimized animations that run at 60fps without compromising performance</p>
+            </div>
+            <div class="feature-card" tabindex="0">
+                <div class="feature-icon">🎨</div>
+                <h3 class="feature-title">Beautiful Design</h3>
+                <p class="feature-description">Carefully crafted animations that enhance user experience</p>
+            </div>
+            <div class="feature-card" tabindex="0">
+                <div class="feature-icon">♿</div>
+                <h3 class="feature-title">Accessible</h3>
+                <p class="feature-description">Respects user preferences and follows accessibility guidelines</p>
+            </div>
+            <div class="feature-card" tabindex="0">
+                <div class="feature-icon">📱</div>
+                <h3 class="feature-title">Responsive</h3>
+                <p class="feature-description">Works seamlessly across all devices and screen sizes</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery Section with Scroll Animations -->
+    <section id="gallery" class="gallery-section">
+        <h2 class="section-title">Interactive Gallery</h2>
+        <p class="section-subtitle">Scroll to reveal amazing animations</p>
+        <div class="gallery-grid">
+            <div class="gallery-item">
+                <div class="gallery-image" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+                    <span class="gallery-number">01</span>
+                </div>
+                <h3 class="gallery-title">Scroll Trigger</h3>
+            </div>
+            <div class="gallery-item">
+                <div class="gallery-image" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
+                    <span class="gallery-number">02</span>
+                </div>
+                <h3 class="gallery-title">Parallax Effect</h3>
+            </div>
+            <div class="gallery-item">
+                <div class="gallery-image" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
+                    <span class="gallery-number">03</span>
+                </div>
+                <h3 class="gallery-title">Stagger Animation</h3>
+            </div>
+            <div class="gallery-item">
+                <div class="gallery-image" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);">
+                    <span class="gallery-number">04</span>
+                </div>
+                <h3 class="gallery-title">Smooth Transitions</h3>
+            </div>
+            <div class="gallery-item">
+                <div class="gallery-image" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);">
+                    <span class="gallery-number">05</span>
+                </div>
+                <h3 class="gallery-title">Hover Effects</h3>
+            </div>
+            <div class="gallery-item">
+                <div class="gallery-image" style="background: linear-gradient(135deg, #30cfd0 0%, #330867 100%);">
+                    <span class="gallery-number">06</span>
+                </div>
+                <h3 class="gallery-title">Timeline Magic</h3>
+            </div>
+        </div>
+    </section>
+
+    <!-- Interactive Counter Section -->
+    <section class="counter-section">
+        <h2 class="section-title">Our Impact</h2>
+        <div class="counters-grid">
+            <div class="counter-item">
+                <div class="counter-number" data-target="1250">0</div>
+                <div class="counter-label">Projects Completed</div>
+            </div>
+            <div class="counter-item">
+                <div class="counter-number" data-target="98">0</div>
+                <div class="counter-label">Client Satisfaction %</div>
+            </div>
+            <div class="counter-item">
+                <div class="counter-number" data-target="500">0</div>
+                <div class="counter-label">Happy Clients</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact-section">
+        <div class="contact-content">
+            <h2 class="section-title">Get In Touch</h2>
+            <p class="contact-text">Ready to create something amazing together?</p>
+            <button class="contact-button">
+                <span>Contact Us</span>
+                <span class="button-shine"></span>
+            </button>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>&copy; 2024 GSAP Animations. Created for Codveda Technology Internship.</p>
+        <p class="footer-note">Accessibility: Animations respect prefers-reduced-motion</p>
+    </footer>
+
+    <!-- GSAP Library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -378,6 +378,10 @@ For questions or feedback about this project:
 - **Email:** theodoreabbey174@gmail.com
 - **Portfolio:** [My Portfolio Website](https://your-portfolio.com)
 
+**Internship**: Codveda Technology  
+**Position**: Front-End Development Intern  
+**Task**: Level 3 - Task 2: Advanced Animations  
+
 **Level 3 - Advanced Task 2: Performance Optimization**
 
 ---

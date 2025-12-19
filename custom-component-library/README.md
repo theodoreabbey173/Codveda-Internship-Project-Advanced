@@ -1,4 +1,6 @@
 # Custom Component Library
+**Level 3 (Advanced) - Task 1**  
+*Codveda Technology Internship*
 
 A modern, accessible React component library built with TypeScript, documented with Storybook, and ready for NPM publishing.
 
@@ -417,6 +419,10 @@ For questions or feedback about this project:
 - **GitHub:** [My GitHub Profile](https://github.com/theodoreabbey173)
 - **Email:** theodoreabbey174@gmail.com
 - **Portfolio:** [My Portfolio Website](https://your-portfolio.com)
+
+**Internship**: Codveda Technology  
+**Position**: Front-End Development Intern  
+**Task**: Level 3 - Task 1: Advanced Animations  
 
 
 **Good luck with your submission! 🚀**
