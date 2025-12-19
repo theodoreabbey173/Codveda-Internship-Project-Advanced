@@ -91,9 +91,9 @@ Create sophisticated animations with:
 
 | Project | Live Demo | Source Code |
 |---------|-----------|-------------|
-| Task 1 - Custom Component Library | [Demo Link](https://task1-spa.netlify.app/) | [View Code](./custom-component-library/) |
-| Task 2 - Performance Optimization | [Demo Link](https://task2-weather-api.netlify.app/) | [View Code](./performance-optimization/) |
-| Task 3 - Advanced Animation | [Demo Link](https://task3-ecommerce-ui.netlify.app/) | [View Code](./advanced-animations-gsap/) |
+| Task 1 - Custom Component Library | [Demo Link](https://custom-component-libraries.netlify.app/) | [View Code](./custom-component-library/) |
+| Task 2 - Performance Optimization | [Demo Link](https://performances-optimization.netlify.app/) | [View Code](./performance-optimization/) |
+| Task 3 - Advanced Animation | [Demo Link](https://advanced-animation-gsap.netlify.app/) | [View Code](./advanced-animations-gsap/) |
 
 
 ## 📁 Project Structure
